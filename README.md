@@ -1,6 +1,5 @@
 ### Hi! 
-### My name is Mostafa, and I am  a self-taught developer!
-
+### My name is Mostafa, and I am  a self-taught developerl;
 
 - 🌱 Currently leanrning various technologies to add to my skill set.
 - 👯 While learning, I'm actively looking for open source projects I can contribute to.
